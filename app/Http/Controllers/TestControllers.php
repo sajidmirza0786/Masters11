@@ -118,5 +118,7 @@ class TestControllers extends Controller
         $a = 1;
         $$a = 4;
         echo $$a;
+
+        //this file is not generated
     }
 }
